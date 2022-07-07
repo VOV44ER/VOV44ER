@@ -3,7 +3,7 @@
 </div>
 <div align="center">
   <a href="your-linkedin-URL">
-    <img src="https://www.linkedin.com/in/alputov-vova/?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://www.linkedin.com/in/alputov-vova?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 <div align="center">
