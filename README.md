@@ -23,3 +23,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
 </div>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=VOV44ER&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+![VOV44ER's github stats](https://github-readme-stats.vercel.app/api?username=VOV44ER&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
