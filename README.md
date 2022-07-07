@@ -9,7 +9,7 @@
 </div>
 <h1>
   Hi there, i am Vova from Ukraine
-  <img src="https://media.giphy.com/media/bcUcdqhEk9Ty2GZX1G/giphy.gif" width="30"/>
+  <img src="https://media.giphy.com/media/bcUcdqhEk9Ty2GZX1G/giphy.gif" width="50"/>
 </h1>
 
 Here are some ideas to get you started:
