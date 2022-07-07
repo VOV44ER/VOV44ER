@@ -7,7 +7,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=VOV44ER&style=flat-square&color=blue" alt=""/>
 </div>
-<h1>
+<h1 align="center">
   Hi there, i am Vova from Ukraine
   <img src="https://media.giphy.com/media/bcUcdqhEk9Ty2GZX1G/giphy.gif" width="50"/>
 </h1>
