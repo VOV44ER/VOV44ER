@@ -9,8 +9,8 @@
 </div>
 <h1>
   Hi there, i am Vova from Ukraine
-  <img src="https://giphy.com/embed/bcUcdqhEk9Ty2GZX1G" width="30px"/>
-  <iframe src="https://giphy.com/embed/bcUcdqhEk9Ty2GZX1G" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/ukraine-stop-war-ucrania-bcUcdqhEk9Ty2GZX1G">via GIPHY</a></p>
+  <img src="[https://giphy.com/embed/bcUcdqhEk9Ty2GZX1G](https://giphy.com/stickers/ukraine-stop-war-ucrania-bcUcdqhEk9Ty2GZX1G)" width="30px"/>
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/bcUcdqhEk9Ty2GZX1G" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/ukraine-stop-war-ucrania-bcUcdqhEk9Ty2GZX1G">via GIPHY</a></p>
 </h1>
 
 Here are some ideas to get you started:
