@@ -9,7 +9,8 @@
 </div>
 <h1>
   Hi there, i am Vova from Ukraine
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://giphy.com/embed/bcUcdqhEk9Ty2GZX1G" width="30px"/>
+  <iframe src="https://giphy.com/embed/bcUcdqhEk9Ty2GZX1G" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/ukraine-stop-war-ucrania-bcUcdqhEk9Ty2GZX1G">via GIPHY</a></p>
 </h1>
 
 Here are some ideas to get you started:
