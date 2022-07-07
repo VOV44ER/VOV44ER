@@ -12,8 +12,6 @@
   <img src="https://media.giphy.com/media/bcUcdqhEk9Ty2GZX1G/giphy.gif" width="50"/>
 </h1>
 
----
-
 ### :woman_technologist: About Me :
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
